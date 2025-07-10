@@ -1,6 +1,6 @@
 # Qwen2.5-VL-3B-Instruct 模型部署指南
 
-本指南将帮助您在 AutoDL 平台上部署 Qwen2.5-VL-3B-Instruct 多模态大语言模型。
+在 AutoDL 平台上部署 Qwen2.5-VL-3B-Instruct 多模态大语言模型。
 
 ## 环境准备
 
